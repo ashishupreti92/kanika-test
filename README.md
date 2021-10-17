@@ -4,4 +4,6 @@
 
 # commit by user1
 
+# second commit by user1
+
 # commit by master
